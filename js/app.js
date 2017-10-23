@@ -38,7 +38,7 @@ $.ajax({
 });
 
 $("button").on("click", function (addPictures){
-  event.preventDefault();
+
   if ($(".mars div img").attr("class", "hide")) {
     $(".mars div img").attr("class", "show");
     $('.button').hide();

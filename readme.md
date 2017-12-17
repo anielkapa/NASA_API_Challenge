@@ -1,7 +1,7 @@
 # NASA API Challenge
-using NASA API: ajax, jquery.
+using NASA API.
 
-# Create You Book
+# Overview
 is simple single web-page that enables to explor current Mars pictures.
 
 ### Getting Started

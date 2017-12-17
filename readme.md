@@ -1,7 +1,7 @@
 # NASA API Challenge
 using NASA API.
 
-# Overview
+### Overview
 is simple single web-page that enables to explor current Mars pictures.
 
 ### Getting Started

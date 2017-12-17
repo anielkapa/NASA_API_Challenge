@@ -15,9 +15,5 @@ Clone this repository```https://github.com/anielkapa/NASA_API_Challenge.git```
 ### Author
 * [Anna Sobkowiak](https://github.com/anielkapa)
 
-### License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ### Acknowledgments
 * This is a CodersLab workshop project
-
